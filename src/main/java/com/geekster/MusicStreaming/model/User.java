@@ -34,7 +34,7 @@ public class User {
     @Email(message = "Enter Valid Email")
     private String email;
 
-    @NotBlank
+    @NotNull
     @Min(value = 5 , message = "Age should not be smaller than 5")
     @Max(value = 70 , message = "Age should not be greater than 70")
     private Integer age;
