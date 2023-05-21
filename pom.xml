@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.geekster</groupId>
-	<artifactId>Music streaming service API</artifactId>
+	<artifactId>MusicstreamingserviceAPI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>MusicStreaming</name>
 	<description>Demo project for Spring Boot</description>
