@@ -20,6 +20,11 @@ public class UserController {
 
     @Autowired
     TokenService authService;
+    
+    @GetMapping("/home")
+    public String getHome(){
+        return "welcome to Music Streaming user!! ";
+    }
 
     @PostMapping("/signup")
     public SignUpOutput signUp(@RequestBody SignUpInput signUpDto){
