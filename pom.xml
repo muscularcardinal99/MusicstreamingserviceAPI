@@ -8,8 +8,8 @@
 		<version>2.7.12</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com_geekster</groupId>
-	<artifactId>MusicstreamingserviceAPI</artifactId>
+	<groupId>gekster</groupId>
+	<artifactId>musicstreaming(basic)</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>MusicStreaming</name>
 	<description>Demo project for Spring Boot</description>
